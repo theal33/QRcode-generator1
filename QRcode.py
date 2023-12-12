@@ -1,5 +1,5 @@
 import qrcode as qr
 
-img =qr.make("https://www.stemlab.com.ng")
+img =qr.make("https://www.example.com")
 
-img.save("stemlab.png")
+img.save("example.png")
